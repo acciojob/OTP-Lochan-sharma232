@@ -2,3 +2,10 @@
 #verification_heading{
 	text-align:center;
 }
+.code-container{
+	display:flex;
+	justify-content:center;
+	border:1px light gray;
+	height:100px;
+	width:5%;
+	}
